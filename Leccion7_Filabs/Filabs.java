@@ -21,7 +21,7 @@ public class Filabs {
         
         escritor.println(generador.imprimirEncabezado());
         
-        escritor.println(generador.imprimirTexto("Un Neekoyote"));
+        escritor.println(generador.imprimirTexto("Una Neekoyote"));
         escritor.println(generador.insertarImagen("NeekoMonita.jpg"));
         
         while(lector.hasNext()){
